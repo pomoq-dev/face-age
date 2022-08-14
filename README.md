@@ -12,7 +12,8 @@
 
 Inference Notebook: &nbsp;<a href="http://colab.research.google.com/github/pomoq-dev/face-age/blob/master/notebooks/inference_playground.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>  
 Animation Notebook: <a href="http://colab.research.google.com/github/pomoq-dev/face-age/blob/master/notebooks/animation_inference_playground.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a><br>
-Animation All: &nbsp;<a href="http://colab.research.google.com/github/pomoq-dev/face-age/blob/master/notebooks/inference_playground_all_images.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
+Animation All: &nbsp;<a href="http://colab.research.google.com/github/pomoq-dev/face-age/blob/master/notebooks/inference_playground_all_images.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a><br>
+Animation 1024 mp4: &nbsp;<a href="http://colab.research.google.com/github/pomoq-dev/face-age/blob/master/notebooks/inference_playground_all_images_mp4.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=22.5></a>
 
 
 <p align="center">
